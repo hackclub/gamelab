@@ -1,3 +1,6 @@
+> This repo is depracated and exists for archive purposes. 
+The updated version of Game Lab is [Sprig](https://github.com/hackclub/sprig)
+
 # 👾 **[Hack Club Game Lab →](https://gamelab.hackclub.com/)**
 
 The best way to learn is by making things you care about and sharing them with others.  
